@@ -1,0 +1,8 @@
+E:\C#\projekt_C#_stronka\passenger.api\bin\Debug\netcoreapp1.1\Passenger.Api.deps.json
+E:\C#\projekt_C#_stronka\passenger.api\bin\Debug\netcoreapp1.1\Passenger.Api.runtimeconfig.json
+E:\C#\projekt_C#_stronka\passenger.api\bin\Debug\netcoreapp1.1\Passenger.Api.runtimeconfig.dev.json
+E:\C#\projekt_C#_stronka\passenger.api\bin\Debug\netcoreapp1.1\Passenger.Api.dll
+E:\C#\projekt_C#_stronka\passenger.api\bin\Debug\netcoreapp1.1\Passenger.Api.pdb
+E:\C#\projekt_C#_stronka\passenger.api\obj\Debug\netcoreapp1.1\Passenger.Api.AssemblyInfo.cs
+E:\C#\projekt_C#_stronka\passenger.api\obj\Debug\netcoreapp1.1\Passenger.Api.dll
+E:\C#\projekt_C#_stronka\passenger.api\obj\Debug\netcoreapp1.1\Passenger.Api.pdb
