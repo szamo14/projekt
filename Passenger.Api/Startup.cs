@@ -21,33 +21,7 @@ namespace Passenger.Api {
         }
 
         public Startup (IConfigurationRoot configuration) {
-            this.Configuration = configuration;
-
-        }
-        public Startup (IConfigurationRoot configuration) => this.Configuration = configuration;
-        public Startup (IConfigurationRoot configuration) {
-            this.Configuration = configuration;
-
-        }
-        public Startup (IConfigurationRoot configuration) {
-            this.Configuration = configuration;
-
-        }
-        public Startup (IConfigurationRoot configuration) {
-            this.Configuration = configuration;
-
-        }
-        public Startup (IConfigurationRoot configuration) {
-            this.Configuration = configuration;
-
-        }
-        public Startup (IConfigurationRoot configuration) {
-            this.Configuration = configuration;
-
-        }
-        public Startup (IConfigurationRoot configuration) {
-            this.Configuration = configuration;
-
+            this.Configuration = configuration ;
         }
         public IConfigurationRoot Configuration { get; }
 
