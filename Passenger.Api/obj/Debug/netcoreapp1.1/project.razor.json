@@ -2,5 +2,13 @@
   "ProjectFilePath": "e:\\appC#\\projekt\\Passenger.Api\\Passenger.Api.csproj",
   "TargetFramework": "netcoreapp1.1",
   "TagHelpers": [],
-  "Configuration": null
+  "Configuration": {
+    "ConfigurationName": "MVC-1.1",
+    "LanguageVersion": "1.1",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-1.1"
+      }
+    ]
+  }
 }
