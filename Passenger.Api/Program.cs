@@ -10,6 +10,10 @@ namespace Passenger.Api
 {
     public class Program
     {
+        public Program()
+        {
+        }
+
         public static void Main(string[] args)
         {
             var host = new WebHostBuilder()
