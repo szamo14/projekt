@@ -1,14 +1,6 @@
 {
-  "ProjectFilePath": "e:\\C#\\projekt_C#_stronka\\Passenger.Test.EndToEnd\\Passenger.Test.EndToEnd.csproj",
+  "ProjectFilePath": "e:\\appC#\\projekt\\Passenger.Test.EndToEnd\\Passenger.Test.EndToEnd.csproj",
   "TargetFramework": "netstandard1.6",
   "TagHelpers": [],
-  "Configuration": {
-    "ConfigurationName": "UnsupportedRazor",
-    "LanguageVersion": "1.0",
-    "Extensions": [
-      {
-        "ExtensionName": "UnsupportedRazorExtension"
-      }
-    ]
-  }
+  "Configuration": null
 }
